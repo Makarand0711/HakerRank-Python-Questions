@@ -12,5 +12,14 @@ even = n%2 == 0
               print(a/b) for ex  3/5= 0.6 proper answer
 6] for loops = for i in range (o,n,1) starting to ending
                 range is 1 to 3 more ex for i in range (1 ,n+1) 3 bhi aayega 
-7] leap year =n%400 n%100 n%4
+7] leap year =n%400, n%100, n%4
    there are three condition 
+8] list for ex n=list()
+            n.append ([x,y,z])   {append means value list ke format main lene kile}
+        print (n)
+9] maximum range 
+arr.sort(reverse=True)
+    for i in range(n):
+        if arr[i]>arr[i+1]:
+            print(arr[i+1])
+            break
